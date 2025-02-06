@@ -1,1 +1,2 @@
 Test file in test directory. 
+A new line.
